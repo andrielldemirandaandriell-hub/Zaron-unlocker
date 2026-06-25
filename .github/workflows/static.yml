@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zaron Unlocker | Fast • Reliable • Secure</title>
+    <style>
+        /* Estilos Globais */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #0d0a14; /* Fundo escuro */
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+
+        /* Cabeçalho e Hero Section */
+        header {
+            text-align: center;
+            padding: 60px 20px 40px;
+            background: linear-gradient(180deg, #160f24 0%, #0d0a14 100%);
+        }
+
+        .logo-container img {
+            max-width: 300px;
+            height: auto;
+            border-radius: 15px; /* Suaviza as bordas da imagem, se necessário */
+        }
+
+        h1 {
+            color: #a975ff; /* Roxo da logo */
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            letter-spacing: 2px;
+        }
+
+        p.subtitle {
+            color: #b3b3b3;
+            font-size: 1.2em;
+            margin-bottom: 30px;
+        }
+
+        /* Botão de Chamada para Ação */
+        .cta-button {
+            display: inline-block;
+            background: linear-gradient(90deg, #8a4fff 0%, #b854ff 100%);
+            color: #ffffff;
+            padding: 15px 40px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.1em;
+            border-radius: 30px;
+            transition: transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 4px 15px rgba(138, 79, 255, 0.4);
+        }
+
+        .cta-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(138, 79, 255, 0.6);
+        }
+
+        /* Seção de Recursos (Features) */
+        .features {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 30px;
+            padding: 60px 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .feature-card {
+            background-color: #15101f;
+            border: 1px solid #3d2b5e;
+            border-radius: 10px;
+            padding: 30px;
+            width: 250px;
+            text-align: center;
+            transition: border-color 0.3s;
+        }
+
+        .feature-card:hover {
+            border-color: #a975ff;
+        }
+
+        .feature-card h3 {
+            color: #a975ff;
+            margin-top: 0;
+        }
+
+        /* Rodapé */
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #07050a;
+            color: #666;
+            font-size: 0.9em;
+            border-top: 1px solid #221833;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo-container">
+            <img src="image_84b463.jpg" alt="Zaron Unlocker Logo">
+        </div>
+        <h1>Bem-vindo ao ZARON</h1>
+        <p class="subtitle">A solução definitiva: Fast, Reliable & Secure.</p>
+        <a href="#download" class="cta-button">Baixar Agora</a>
+    </header>
+
+    <section class="features">
+        <div class="feature-card">
+            <h3>Rápido (Fast)</h3>
+            <p>Processamento otimizado para garantir que você não perca tempo. Velocidade é a nossa prioridade.</p>
+        </div>
+        <div class="feature-card">
+            <h3>Confiável (Reliable)</h3>
+            <p>Sistemas estáveis com alta taxa de sucesso. Conte com nossa tecnologia quando mais precisar.</p>
+        </div>
+        <div class="feature-card">
+            <h3>Seguro (Secure)</h3>
+            <p>Proteção de dados de ponta a ponta. Sua privacidade e segurança estão sempre em primeiro lugar.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Zaron Unlocker. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
