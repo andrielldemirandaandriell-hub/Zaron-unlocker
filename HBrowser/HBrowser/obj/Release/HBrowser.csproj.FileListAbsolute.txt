@@ -1,0 +1,6 @@
+C:\Users\byt3d4sh\Desktop\XWorm SRC\Plugins\HBrowser\HBrowser\bin\Release\HBrowser.dll
+C:\Users\byt3d4sh\Desktop\XWorm SRC\Plugins\HBrowser\HBrowser\bin\Release\HBrowser.pdb
+C:\Users\byt3d4sh\Desktop\XWorm SRC\Plugins\HBrowser\HBrowser\obj\Release\HBrowser.csproj.AssemblyReference.cache
+C:\Users\byt3d4sh\Desktop\XWorm SRC\Plugins\HBrowser\HBrowser\obj\Release\HBrowser.csproj.CoreCompileInputs.cache
+C:\Users\byt3d4sh\Desktop\XWorm SRC\Plugins\HBrowser\HBrowser\obj\Release\HBrowser.dll
+C:\Users\byt3d4sh\Desktop\XWorm SRC\Plugins\HBrowser\HBrowser\obj\Release\HBrowser.pdb
