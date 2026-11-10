@@ -1,0 +1,8 @@
+C:\Users\byt3d4sh\Desktop\XWorm SRC\Plugins\Chromium\Chromium\bin\Release\Chromium.dll
+C:\Users\byt3d4sh\Desktop\XWorm SRC\Plugins\Chromium\Chromium\bin\Release\Chromium.pdb
+C:\Users\byt3d4sh\Desktop\XWorm SRC\Plugins\Chromium\Chromium\obj\Release\Chromium.vbproj.AssemblyReference.cache
+C:\Users\byt3d4sh\Desktop\XWorm SRC\Plugins\Chromium\Chromium\obj\Release\Chromium.Resources.resources
+C:\Users\byt3d4sh\Desktop\XWorm SRC\Plugins\Chromium\Chromium\obj\Release\Chromium.vbproj.GenerateResource.cache
+C:\Users\byt3d4sh\Desktop\XWorm SRC\Plugins\Chromium\Chromium\obj\Release\Chromium.vbproj.CoreCompileInputs.cache
+C:\Users\byt3d4sh\Desktop\XWorm SRC\Plugins\Chromium\Chromium\obj\Release\Chromium.dll
+C:\Users\byt3d4sh\Desktop\XWorm SRC\Plugins\Chromium\Chromium\obj\Release\Chromium.pdb
