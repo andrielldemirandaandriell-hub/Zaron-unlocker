@@ -1,0 +1,5 @@
+C:\Users\zaron\Downloads\LoginApp\LoginApp\bin\Release\net8.0-windows\publish\LoginApp.exe
+C:\Users\zaron\Downloads\LoginApp\LoginApp\bin\Release\net8.0-windows\publish\LoginApp.dll
+C:\Users\zaron\Downloads\LoginApp\LoginApp\bin\Release\net8.0-windows\publish\LoginApp.deps.json
+C:\Users\zaron\Downloads\LoginApp\LoginApp\bin\Release\net8.0-windows\publish\LoginApp.runtimeconfig.json
+C:\Users\zaron\Downloads\LoginApp\LoginApp\bin\Release\net8.0-windows\publish\LoginApp.pdb

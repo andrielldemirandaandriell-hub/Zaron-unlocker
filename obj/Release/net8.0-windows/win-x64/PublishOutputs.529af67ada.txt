@@ -1,0 +1,2 @@
+C:\Users\zaron\Downloads\LoginApp\LoginApp\bin\Release\net8.0-windows\win-x64\publish\LoginApp.pdb
+C:\Users\zaron\Downloads\LoginApp\LoginApp\bin\Release\net8.0-windows\win-x64\publish\LoginApp.exe
